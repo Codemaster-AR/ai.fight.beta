@@ -1,2 +1,2 @@
 # ai.fight.beta
-Beta version of codemaster-ar.github.io/ai.fight
+Regular version of codemaster-ar.github.io/ai.fight
